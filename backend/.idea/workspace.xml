@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3567b333-5217-45b8-a218-b5052de2cc8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/config/cors/ApiCORSConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/controllers/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/controllers/InfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/controllers/TitleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/models/DepartmentStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/repositories/TitleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/services/TitleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/models/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/controllers/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/DepartmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repositories/DepartmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/models/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repositories/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/services/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/models/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/InfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/InfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repositories/InfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/models/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/TitleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/TitleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/DepartmentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/DepartmentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/InfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/InfoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/Title.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/TitleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project/TitleRepository.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\User\IdeaProjects\backend\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OxyGzdZJaog8HEAgTYnLiPRWHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="project.services" />
+      <recent name="project" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\backend\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Application" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.services" />
+      <option name="MAIN_CLASS_NAME" value="project.services.EmployeeServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testAddEmployer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.services" />
+      <option name="MAIN_CLASS_NAME" value="project.services.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testAddEmployer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testIsFullNameEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.services" />
+      <option name="MAIN_CLASS_NAME" value="project.services.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testIsFullNameEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testIsValidFullName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.services" />
+      <option name="MAIN_CLASS_NAME" value="project.services.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testIsValidFullName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testAddEmployer" />
+        <item itemvalue="JUnit.EmployeeServiceTests" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testIsFullNameEmpty" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testIsValidFullName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3567b333-5217-45b8-a218-b5052de2cc8b" name="Default Changelist" comment="" />
+      <created>1564933450999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564933450999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jrt://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/jbr!/java.base/java/lang/Throwable.class</url>
+          <line>83</line>
+          <properties class="java.lang.Throwable" method="getMessage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$Application.ic" NAME="Application Coverage Results" MODIFIED="1565280015523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>project.*</FILTER>
+    </SUITE>
+  </component>
+</project>
